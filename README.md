@@ -2,4 +2,4 @@
 
 ## this is a smaller headline
 
-Here I am just adding some mored texts
+Here I am just adding some more texts
